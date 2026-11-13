@@ -1,0 +1,14 @@
+[
+  {
+    "command": "require",
+    "group": "0",
+    "name": "product",
+    "value": "arom|arom-tiny"
+  },
+  {
+    "command": "require",
+    "group": "0",
+    "name": "version",
+    "value": "0.5"
+  }
+]
