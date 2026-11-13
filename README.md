@@ -106,5 +106,13 @@ GitHub repository has not been created as part of organizing this workspace.
 
 ## License
 
-A license has not yet been selected for the original tooling. No redistribution
-rights for excluded vendor software or firmware are implied by this repository.
+These tools are free to use, modify, and redistribute for noncommercial purposes
+under the accompanying license.
+
+Commercial use requires a separate written agreement with the copyright holder
+before use begins. This includes use in paid services, internal business
+operations, and commercial products, whether or not the tools themselves are
+sold.
+
+The accompanying license file has not yet been added. No redistribution rights
+for excluded vendor software or firmware are implied by this repository.
