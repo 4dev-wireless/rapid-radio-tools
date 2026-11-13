@@ -76,10 +76,6 @@ requirements.txt            Python USB dependency
 The [AROM recipe](configs/arom-readonly-probe/README.md) contains only product
 and protocol requirements. It does not include a loader or vendor executable.
 
-Firmware dumps, vendor installers, drivers, loaders, packet captures, raw
-research output, photos, and the separate QDL checkout are excluded. See
-[provenance](docs/provenance.md) for the relationship to those materials.
-
 ## Development
 
 ```bash
@@ -92,17 +88,6 @@ GitHub Actions runs the same checks on Python 3.10 and 3.14.
 
 For contributions, follow [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Publish to GitHub
-
-From this repository directory, after reviewing the files and selecting a
-license, use the GitHub CLI to create a public repository and push `main`:
-
-```bash
-gh repo create rapid-radio-tools --public --source=. --remote=origin --push
-```
-
-This command creates a public repository in your authenticated account. A
-GitHub repository has not been created as part of organizing this workspace.
 
 ## License
 
